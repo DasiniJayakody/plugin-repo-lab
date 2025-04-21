@@ -2,9 +2,6 @@
   {
     "name": "Sample Plugin",
     "entry": "./plugins/sample-plugin/plugin.js"
-  },
-  {
-    "name": "Dasini Plugin",
-    "entry": "./plugins/Dasini-plugin/plugin.js"
   }
 ]
+
